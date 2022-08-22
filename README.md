@@ -1,3 +1,3 @@
 # javascripttest
 
-# compilation of javascritp progress
+compilation of javascript progress
